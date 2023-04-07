@@ -1,4 +1,4 @@
-# Grant Tool Readme
+# Contract Creation Tool Readme
 
 This script allows you to generate multiple personalized contract files from a given Word document template and an Excel file containing the contract information.
 
